@@ -3,6 +3,11 @@ Repository for Assignment 1
 # Rock, Paper, Scissors Game
 This Rock, Paper, Scissors Game is the same game that you know and love. You will play against a computer that makes a choice with the help of a random word generator.
 
+Please remember the following:
+Rock beats Scissors
+Scissors beats Paper
+Paper beats Rock
+
 # Usage
 
 No additional installation necessary. Type the following code in your terminal, in order:
