@@ -15,17 +15,23 @@ if player_choice == computer_choice:
 elif player_choice == "Rock":
   if computer_choice == "Paper":
     print("You lose!", computer_choice, "beats", player_choice)
+    print("Thanks for playing. Please play again!")
   else:
     print("You win!", player_choice, "beats", computer_choice)
+    print("Thanks for playing. Please play again!")
 elif player_choice == "Paper":
     if computer_choice == "Scissors":
       print("You lose!", computer_choice, "beats", player_choice)
+      print("Thanks for playing. Please play again!")
     else:
       print("You win!", player_choice, "beats", computer_choice)
+      print("Thanks for playing. Please play again!")
 elif player_choice == "Scissors":
     if computer_choice == "Rock":
         print("You lose...", computer_choice, "beats", player_choice)
+        print("Thanks for playing. Please play again!")
     else:
         print("You win!", player_choice, "beats", computer_choice)
+        print("Thanks for playing. Please play again!")
 else:
       print("That's not a valid play. Please re-run and type a valid input!")
