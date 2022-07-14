@@ -13,10 +13,10 @@ Paper beats Rock</p>
 No additional installation necessary. Open Terminal or Bash, and navigate to the directory where the repository is saved locally. Type the following code in your terminal, in order from the top down:
 
 ```sh
-conda activate my-game-env
+conda create -n my-game-env python=3.8
 ```
 ```sh
-conda create -n my-game-env python=3.8
+conda activate my-game-env
 ```
 ```sh
 python game.py
