@@ -10,7 +10,7 @@ Paper beats Rock</p>
 
 # Usage
 
-No additional installation necessary. Type the following code in your terminal, in order from the top down:
+No additional installation necessary. Open Terminal or Bash, and navigate to the directory where the repository is saved locally. Type the following code in your terminal, in order from the top down:
 
 ```sh
 conda activate my-game-env
