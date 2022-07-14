@@ -5,7 +5,7 @@ This Rock, Paper, Scissors Game is the same game that you know and love. You wil
 
 # Usage
 
-No additional installation necessary
+No additional installation necessary. Type the following code in your terminal, in order:
 
 ```sh
 conda activate my-game-env
