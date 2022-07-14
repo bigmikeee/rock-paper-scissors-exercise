@@ -7,9 +7,13 @@ This Rock, Paper, Scissors Game is the same game that you know and love. You wil
 
 No additional installation necessary
 
-```bash
+```sh
 conda activate my-game-env
+```
+```sh
 conda create -n my-game-env python=3.8
+```
+```sh
 python game.py
 ```
 
